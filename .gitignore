@@ -1,0 +1,9 @@
+# NUNCA commitar a licenca do Gurobi nem a chave
+*.lic
+gurobi.lic
+grbgetkey*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
